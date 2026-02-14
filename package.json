@@ -1,0 +1,20 @@
+{
+  "name": "nianfo-counter",
+  "version": "1.0.0",
+  "description": "Amituofo Chanting Counter",
+  "main": "js/app.js",
+  "scripts": {
+    "start": "npx http-server . -o -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buddhism",
+    "counter",
+    "meditation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
